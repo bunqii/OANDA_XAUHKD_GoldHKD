@@ -1,0 +1,1 @@
+# OANDA_XAUHKD_GoldHKD
